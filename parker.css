@@ -7,3 +7,25 @@ body {
     background-color: rgb(202, 209, 216);
     color: rgb(14, 17, 22);
 }
+
+a {
+    pointer-events: none;
+    cursor: default;
+    color: rgb(202, 209, 216);
+}
+
+td {
+    color: black;
+}
+
+#left-col {
+    padding: 0.5px;
+}
+
+#right-col {
+    padding: 0.5px;
+}
+
+blockquote {
+    border-left: 0px;
+}
