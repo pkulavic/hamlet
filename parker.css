@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(14, 17, 22);
+    color: rgb(202, 209, 216);
+}
+
+::selection {
+    background-color: rgb(202, 209, 216);
+    color: rgb(14, 17, 22);
+}
